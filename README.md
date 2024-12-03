@@ -1,16 +1,14 @@
-# cinema_app_ukl
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Cinema App (UKL)
+## Hasil Screenshot Setiap Halaman
+### Splash Screen
+![splash_screen](/screenshots/splash_screen.png)
+### Register 
+![splash_screen](/screenshots/register.png)
+### Homepage
+![splash_screen](/screenshots/homepage.png)
+### Cinema
+![splash_screen](/screenshots/cinema.png)
+### Ticket
+![splash_screen](/screenshots/ticket.png)
+### My Ticket
+![splash_screen](/screenshots/my_ticket.png)
