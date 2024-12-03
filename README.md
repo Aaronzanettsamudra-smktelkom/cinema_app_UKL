@@ -3,12 +3,12 @@
 ### Splash Screen
 ![splash_screen](/screenshots/splash_screen.png)
 ### Register 
-![splash_screen](/screenshots/register.png)
+![register](/screenshots/register.png)
 ### Homepage
-![splash_screen](/screenshots/homepage.png)
+![homepage](/screenshots/homepage.png)
 ### Cinema
-![splash_screen](/screenshots/cinema.png)
+![cinema](/screenshots/cinema.png)
 ### Ticket
-![splash_screen](/screenshots/ticket.png)
+![ticket](/screenshots/ticket.png)
 ### My Ticket
-![splash_screen](/screenshots/my_ticket.png)
+![my_ticket](/screenshots/my_ticket.png)
